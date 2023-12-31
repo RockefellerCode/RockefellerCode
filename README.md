@@ -9,7 +9,7 @@
 
 - [CompTIA Security+](https://www.credly.com/badges/75966ec8-2217-42ad-9328-3316a9bd467a/public_url)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [Coming Soon](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
