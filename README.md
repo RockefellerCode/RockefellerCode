@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/rockefellercode/LABURL)
   - [Azure Sentinel Lab](https://github.com/rockefellercode/LABURL)
-  - [Tutorial - How to unzip .gz files on mac](https://github.com/RockefellerCode/unzip-gz-file-mac/tree/main))
+  - [Tutorial - How to unzip .gz files on mac](https://github.com/RockefellerCode/unzip-gz-file-mac/tree/main)
 
 <h2>📚 Certifications</h2>
 
