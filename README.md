@@ -2,7 +2,7 @@
 
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/RockefellerCode/ActiveDirectoryLab/tree/main)
+  - [Active Directory Home Lab](https://github.com/rockefellercode/LABURL)
   - [Azure Sentinel Lab](https://github.com/rockefellercode/LABURL)
 
 <h2>📚 Certifications</h2>
